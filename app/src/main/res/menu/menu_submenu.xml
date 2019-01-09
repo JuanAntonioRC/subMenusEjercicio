@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/opcion1"
+        android:icon="@android:drawable/sym_action_call"
+        android:title="@string/telefono" />
+    <item
+        android:id="@+id/opcion2"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="@string/facebook" />
+    <item
+        android:id="@+id/opcion3"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/acercaDe" />
+    <item
+        android:id="@+id/opcion4"
+        android:icon="@android:drawable/ic_menu_more"
+        android:title="@string/SubMenu">
+        <menu>
+            <item
+                android:id="@+id/opcion41"
+                android:title="@string/enviar_correo"/>
+            <item
+                android:id="@+id/opcion42"
+                android:title="@string/telefonear"/>
+        </menu>
+    </item>
+</menu>

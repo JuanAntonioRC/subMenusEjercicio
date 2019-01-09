@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">subMenusEjercicio</string>
+    <string name="SubMenu">SubMenu</string>
+    <string name="enviar_correo">enviar_correo</string>
+    <string name="telefonear">telefonear</string>
+    <string name="acercaDe">acercaDe</string>
+    <string name="facebook">facebook</string>
+    <string name="telefono">telefono</string>
+</resources>
