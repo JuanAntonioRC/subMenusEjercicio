@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         m.setOptionalIconsVisible(true);
         return true;
     }
+    
 
     @SuppressLint("NewApi")
     @Override
